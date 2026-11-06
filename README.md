@@ -1,3 +1,4 @@
+![Harshitha's GitHub Banner](banner.png)
 # 💫 About Me
 
 ### 👋 Hi, I'm Harshitha!
